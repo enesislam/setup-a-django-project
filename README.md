@@ -24,8 +24,8 @@ source myvenv/bin/activate
 
 ## Install Django
 `pip install Django`
-D is caiptal so we will install latest version of Django. 
-You can indicate a version like that;
+D is caiptal so we will install latest version of Django.
+You can specify a version like that;
 `pip install Django==3.2.2`
 
 
@@ -51,11 +51,6 @@ You can specify a server port if it needs;
 
 ## Modify settings.py 
 Coming soon ⚓
-
-
-
-
-
 
 
 
