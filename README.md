@@ -14,7 +14,6 @@ This repo is only for person that new in django web framework. In this repo i wr
 `env\Scripts\activate.bat`
 
 or Linux & OS X
-source myvenv/bin/activate
 `source env/bin/activate`
 
 
